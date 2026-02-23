@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星眼鏡",
+  "base_artist": "石原夏織",
+  "createdAt": "2026-02-23T05:59:31.103463Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星眼鏡",
+      "artist": "石原夏織",
+      "has_synced": false,
+      "path": "select/pl_01_星眼鏡_石原夏織.txt"
+    }
+  ]
+}
